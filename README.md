@@ -40,15 +40,27 @@ Here are some ideas to get you started:
 </ul>
 
 <h3>Applications</h3>
-<a href="https://GreatEscapesOutdoor.com" target="_blank">
-  Daffodil362 - Digital Cyber Punk Escape Room
-</a> 
-<a href="https://GreatEscapesOutdoor.com" target="_blank">
-  "I Want My Money Back" - Satire Digital Escape Room
-</a> 
-<a href="https://GreatEscapesOutdoor.com" target="_blank">
-  Key Finder - Music Theory Made Easy
-</a> 
+
+<ul> 
+  <li>
+    <a href="https://GreatEscapesOutdoor.com" target="_blank">
+      Daffodil362 - Digital Cyber Punk Escape Room
+    </a> 
+  </li>
+  <li>
+    <a href="https://GreatEscapesOutdoor.com" target="_blank">
+     "I Want My Money Back" - Satire Digital Escape Room
+    </a> 
+  </li>
+  <li>
+    <a href="https://GreatEscapesOutdoor.com" target="_blank">
+      Key Finder - Music Theory Made Easy
+    </a> 
+  </li>
+</ul>
+
+
+
 
 <h2>Stats</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jonathonmcclen&count_private=true&theme=radical" />

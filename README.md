@@ -50,10 +50,10 @@ Here are some ideas to get you started:
 		</a> 
 	  </li>
 	  <li>
-		<h4>"I Want My Money Back" - Satire Digital Escape Room - <a href="https://escroomgames.com/Games/I-Want-My-Money-Back" target="_blank">Website</a> / <a href="https://GreatEscapesOutdoor.com" target="_blank">Repo</a></h4>
+		<p>"I Want My Money Back" - Satire Digital Escape Room - <a href="https://escroomgames.com/Games/I-Want-My-Money-Back" target="_blank">Website</a> / <a href="https://GreatEscapesOutdoor.com" target="_blank">Repo</a></p>
 	  </li>
 	  <li>
-		<h4>Key Finder - Music Theory Made Easy - <a href="https://escroomgames.com/Games/I-Want-My-Money-Back" target="_blank">Website</a> / <strike>Repo</strike></h4>
+		<p>Key Finder - Music Theory Made Easy - <a href="https://escroomgames.com/Games/I-Want-My-Money-Back" target="_blank">Website</a> / <strike>Repo</strike></p>
 	  </li>
 	</ul>
 </div>

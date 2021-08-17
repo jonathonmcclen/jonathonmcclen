@@ -48,8 +48,8 @@
 ### 🖱️ Applications & games
 
 - [Daffodil362 - Digital Cyber Punk Escape Room](https://www.escRoomGames.com/games/daffodil362)
-- ["I Want My Money Back" - Satire Digital Escape Room](https://www.youtube.com/watch?v=dOnI3CtvFD4)
-- [Key Finder - Music Theory Made Easy](https://www.youtube.com/watch?v=CGVWCcwVrfU)
+- ["I Want My Money Back" - Satire Digital Escape Room](https://escroomgames.com/Games/I-Want-My-Money-Back)
+- [Key Finder - Music Theory Made Easy](https://copperheadsound.com/Tools/Key-Finder)
 
 <details>
   <summary>:zap: GitHub Stats</summary>

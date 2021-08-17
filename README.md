@@ -39,6 +39,7 @@
   <summary>:zap: GitHub Stats</summary>
   <br/>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jonathonmcclen&count_private=true&theme=radical" />
+  <br/>
 
 </details>
 

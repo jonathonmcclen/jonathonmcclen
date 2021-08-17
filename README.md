@@ -34,7 +34,12 @@
 
 <br />
 <br />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <br/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jonathonmcclen&count_private=true&theme=radical" />
 
+</details>
 ---
 ### Things I've Made
 ---
@@ -52,12 +57,7 @@
 - ["I Want My Money Back" - Satire Digital Escape Room](https://escroomgames.com/Games/I-Want-My-Money-Back)
 - [Key Finder - Music Theory Made Easy](https://copperheadsound.com/Tools/Key-Finder)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <br/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jonathonmcclen&count_private=true&theme=radical" />
 
-</details>
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com

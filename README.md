@@ -1,13 +1,13 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Jonathon Mcclendon[website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-- 🔭 I just launched my second game: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my second game: ["I Want My Money Back"][course]!
 - 🌱 I’m currently learning
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to collaborate with other creators/developers
+- 🥅 2020 Goals: Obtain a fulltime remote sofware enginearing position
+- ⚡ Fun fact: I play guitar / piano
 
 ### Connect with me:
 
@@ -28,11 +28,8 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
@@ -40,16 +37,23 @@
 <br />
 
 ---
+## Things I've Made
 
-### 📺 Latest YouTube Videos
+### 📺 Websites
 
-<!-- YOUTUBE:START -->
-- [AIs Building Websites 🤖, Aliens Killing UIs 👽, & Ecommerce with Jamstack 🛒 // STACKr News Weekly](https://www.youtube.com/watch?v=Q7-f99kYr60)
-- [⭐ BONUS: STACKr News Shorts - How To Accept Payments With Stripe](https://www.youtube.com/watch?v=dOnI3CtvFD4)
-- [Intentional Career Building with Kent C. Dodds // React Advanced London Interview](https://www.youtube.com/watch?v=1lxAnODL7GU)
-- [⭐ BONUS: STACKr News Shorts - Tailwind Just in Time Tutorial](https://www.youtube.com/watch?v=CGVWCcwVrfU)
-- [VS Code Anywhere! Use THIS Trick to get GitHub Codespaces NOW!](https://www.youtube.com/watch?v=RezYIIJYZ6Y)
-<!-- YOUTUBE:END -->
+- [AdvancedWebTechnology.com](https://www.youtube.com/watch?v=Q7-f99kYr60)
+- [escRoomGames.com](https://www.youtube.com/watch?v=dOnI3CtvFD4)
+- [SummitDentalss.com](https://www.youtube.com/watch?v=1lxAnODL7GU)
+- [GreatEscapesOutdoor.com](https://www.youtube.com/watch?v=CGVWCcwVrfU)
+
+➡️ [more videos...](https://youtube.com/codestackr)
+
+### 📺 Applications & games
+
+- [Daffodil362 - Digital Cyber Punk Escape Room](https://www.youtube.com/watch?v=Q7-f99kYr60)
+- ["I Want My Money Back" - Satire Digital Escape Room](https://www.youtube.com/watch?v=dOnI3CtvFD4)
+- [SummitDentalss.com](https://www.youtube.com/watch?v=1lxAnODL7GU)
+- [Key Finder - Music Theory Made Easy](https://www.youtube.com/watch?v=CGVWCcwVrfU)
 
 ➡️ [more videos...](https://youtube.com/codestackr)
 

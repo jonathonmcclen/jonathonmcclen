@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 		</a>
 	  </li>
 	  <li>
-		<a href="https://GreatEscapesOutdoor.com" target="_blank">
+		<a href="https://SummitDentalss.com" target="_blank">
 		  SummitDentalss.com
 		</a> 
 	  </li>

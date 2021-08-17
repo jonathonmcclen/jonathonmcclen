@@ -36,14 +36,21 @@
 <br />
 
 ---
-## Things I've Made
+### Things I've Made
 
-### 💻 Websites
+<details>
+  <summary>💻 Websites</summary>
+  <br/>
+  - [AdvancedWebTechnology.com](https://www.AdvancedWebTechnology.com)
+  - [escRoomGames.com](https://www.escRoomGames.com)
+  - [SummitDentalss.com](https://www.SummitDentalss.com)
+  - [GreatEscapesOutdoor.com](https://www.GreatEscapesOutdoor.com)
 
-- [AdvancedWebTechnology.com](https://www.AdvancedWebTechnology.com)
-- [escRoomGames.com](https://www.escRoomGames.com)
-- [SummitDentalss.com](https://www.SummitDentalss.com)
-- [GreatEscapesOutdoor.com](https://www.GreatEscapesOutdoor.com)
+</details>
+
+###  Websites
+
+
 
 ### 🖱️ Applications & games
 

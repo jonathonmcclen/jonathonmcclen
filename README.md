@@ -49,7 +49,6 @@
 
 - [Daffodil362 - Digital Cyber Punk Escape Room](https://www.youtube.com/watch?v=Q7-f99kYr60)
 - ["I Want My Money Back" - Satire Digital Escape Room](https://www.youtube.com/watch?v=dOnI3CtvFD4)
-- [SummitDentalss.com](https://www.youtube.com/watch?v=1lxAnODL7GU)
 - [Key Finder - Music Theory Made Easy](https://www.youtube.com/watch?v=CGVWCcwVrfU)
 
 <details>

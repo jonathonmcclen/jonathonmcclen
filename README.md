@@ -39,7 +39,7 @@
 ---
 ## Things I've Made
 
-### 📺 Websites
+### 💻 Websites
 
 - [AdvancedWebTechnology.com](https://www.youtube.com/watch?v=Q7-f99kYr60)
 - [escRoomGames.com](https://www.youtube.com/watch?v=dOnI3CtvFD4)
@@ -48,7 +48,7 @@
 
 ➡️ [more videos...](https://youtube.com/codestackr)
 
-### 📺 Applications & games
+### 🖱️ Applications & games
 
 - [Daffodil362 - Digital Cyber Punk Escape Room](https://www.youtube.com/watch?v=Q7-f99kYr60)
 - ["I Want My Money Back" - Satire Digital Escape Room](https://www.youtube.com/watch?v=dOnI3CtvFD4)

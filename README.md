@@ -52,9 +52,12 @@ Here are some ideas to get you started:
 	  <li>
 		<h4>"I Want My Money Back" - Satire Digital Escape Room <a href="https://escroomgames.com/Games/I-Want-My-Money-Back" target="_blank">Website</a> / <a href="https://GreatEscapesOutdoor.com" target="_blank">Repo</a></h4>
 	  </li>
+		<li>
+		<h4>Key Finder - Music Theory Made Easy<a href="https://escroomgames.com/Games/I-Want-My-Money-Back" target="_blank">Website</a> / <strike>Repo</strike></h4>
+	  </li>
 	  <li>
 		<a href="https://copperheadsound.com/Tools/Key-Finder" target="_blank">
-		  Key Finder - Music Theory Made Easy
+		  
 		</a> 
 	  </li>
 	</ul>

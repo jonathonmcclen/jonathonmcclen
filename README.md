@@ -51,7 +51,7 @@ Here are some ideas to get you started:
     <h4>"I Want My Money Back" - Satire Digital Escape Room</h4>
     <a href="https://GreatEscapesOutdoor.com" target="_blank">
      Website
-    </a> 
+    </a> / 
     <a href="https://GreatEscapesOutdoor.com" target="_blank">
      Repo
     </a> 

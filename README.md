@@ -40,14 +40,14 @@
 
 ### 💻 Websites
 
-- [AdvancedWebTechnology.com](https://www.youtube.com/watch?v=Q7-f99kYr60)
-- [escRoomGames.com](https://www.youtube.com/watch?v=dOnI3CtvFD4)
-- [SummitDentalss.com](https://www.youtube.com/watch?v=1lxAnODL7GU)
-- [GreatEscapesOutdoor.com](https://www.youtube.com/watch?v=CGVWCcwVrfU)
+- [AdvancedWebTechnology.com](https://www.AdvancedWebTechnology.com)
+- [escRoomGames.com](https://www.escRoomGames.com)
+- [SummitDentalss.com](https://www.SummitDentalss.com)
+- [GreatEscapesOutdoor.com](https://www.GreatEscapesOutdoor.com)
 
 ### 🖱️ Applications & games
 
-- [Daffodil362 - Digital Cyber Punk Escape Room](https://www.youtube.com/watch?v=Q7-f99kYr60)
+- [Daffodil362 - Digital Cyber Punk Escape Room](https://www.escRoomGames.com/games/daffodil362)
 - ["I Want My Money Back" - Satire Digital Escape Room](https://www.youtube.com/watch?v=dOnI3CtvFD4)
 - [Key Finder - Music Theory Made Easy](https://www.youtube.com/watch?v=CGVWCcwVrfU)
 

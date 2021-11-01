@@ -61,4 +61,4 @@
 [website]: https://advancedwebtechnology.com.com
 [twitter]: https://twitter.com/jonathonmcclen
 [instagram]: https://instagram.com/jonathonmcclen
-[linkedin]: https://linkedin.com/in/jonathonmcclen
+[linkedin]: https://www.linkedin.com/in/jonathon-scott-0a9617b0/

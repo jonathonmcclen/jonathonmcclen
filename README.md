@@ -6,7 +6,7 @@
 - 🔭 I just launched my second game: ["I Want My Money Back"](https://escroomgames.com/Games/I-Want-My-Money-Back)!
 - 🌱 I’m currently learning: node.js
 - 👯 I’m looking to collaborate with other creators/developers
-- 🥅 2020 Goals: Obtain a fulltime remote sofware enginearing position
+- 🥅 2022 Goals: Obtain a fulltime remote sofware enginearing position
 - ⚡ Fun fact: I play guitar / piano
 
 ### Connect with me:

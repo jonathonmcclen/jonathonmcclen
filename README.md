@@ -4,9 +4,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/jonathonmcclen?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=jonathonmcclen)
 
 - 🔭 I just launched my second game: ["I Want My Money Back"](https://escroomgames.com/Games/I-Want-My-Money-Back)!
-- 🌱 I’m currently learning: node.js
+- 🌱 I’m currently learning: Swift
 - 👯 I’m looking to collaborate with other creators/developers
-- 🥅 2022 Goals: Obtain a fulltime remote sofware enginearing position
+- 🥅 2022 Goals: Obtain a fulltime potentialy remote sofware enginearing position
 - ⚡ Fun fact: I play guitar / piano
 
 ### Connect with me:

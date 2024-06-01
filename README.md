@@ -3,11 +3,11 @@
 [![Website](https://img.shields.io/website?label=AdvancedWebTechnology.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://AdvancedWebTechnology.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jonathonmcclen?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=jonathonmcclen)
 
-- 🔭 I just: 
-- 🌱 I’m currently learning: T3 stack
-- 👯 I’m looking to collaborate with other creators/developers
-- 🥅 2024 Goals: finnish and lauch m startup SaaS. become proficent in python
-- ⚡ Fun fact: I play guitar / piano
+- 🔭 I just: Started to learn Network Arcitecture SSH Remote Control and Bash
+- 🌱 I’m currently learning: Prisma
+- 👯 I’m looking for: Full time employment designing and developing software with Javascript framworks.
+- 🥅 2024 Goals: Launch successful Saas
+- ⚡ Fun fact: I am a top 1% recording artist on Spotify
 
 ### Connect with me:
 

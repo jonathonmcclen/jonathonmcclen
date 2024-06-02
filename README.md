@@ -1,7 +1,8 @@
 ### Hi there, I'm Jonathon Mcclendon 👋
 
 [![Website](https://img.shields.io/website?label=JonathonMcclendon.dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]([https://jonathon-dev.vercel.app/](https://jonathon-dev.vercel.app/))
-[![Twitter Follow](https://img.shields.io/twitter/follow/jonathonmcclen?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=jonathonmcclen)
+
+- [jonathon-dev](https://jonathon-dev.vercel.app/)
 
 - 🔭 I just: Started to learn Network Arcitecture SSH Remote Control and Bash
 - 🌱 I’m currently learning: Prisma

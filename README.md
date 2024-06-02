@@ -1,6 +1,6 @@
 ### Hi there, I'm Jonathon Mcclendon 👋
 
-[![Website](https://img.shields.io/website?label=JonathonMcclendon.dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]([https://JonathonMcClendon.dev](https://jonathon-dev.vercel.app/))
+[![Website](https://img.shields.io/website?label=JonathonMcclendon.dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]([https://jonathon-dev.vercel.app/](https://jonathon-dev.vercel.app/))
 [![Twitter Follow](https://img.shields.io/twitter/follow/jonathonmcclen?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=jonathonmcclen)
 
 - 🔭 I just: Started to learn Network Arcitecture SSH Remote Control and Bash
@@ -19,7 +19,7 @@
 
 ### Languages and Tools:
 
-JavaScript | React.js | NEXT.js | Vue.js | Ruby |  Ruby on Rails | sinatra | PHP | Laravel | Python | Django | Node.js | SQL | Postgres | ORM's | AWS | firebase | supabase |
+JavaScript | React.js | NEXT.js | Ruby |  Ruby on Rails | sinatra | PHP | Laravel | Python | Django | Node.js | SQL | Postgres | ORM's | AWS | firebase | supabase |
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]

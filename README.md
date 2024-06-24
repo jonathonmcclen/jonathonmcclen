@@ -1,5 +1,3 @@
-Sure! Here's a more impressive and professional version of your GitHub profile markdown:
-
 ---
 
 ### Hi there, I'm Jonathon McClendon 👋

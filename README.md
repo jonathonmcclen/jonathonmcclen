@@ -1,8 +1,10 @@
+
+
 ---
 
 ### Hi there, I'm Jonathon McClendon 👋
 
-[![Website](https://img.shields.io/website?label=JonathonMcclendon.dev&style=for-the-badge&url=https%3A%2F%2Fjonathon-dev.vercel.app)](https://jonathon-dev.vercel.app/)]
+[![Website](https://img.shields.io/website?label=JonathonMcclendon.dev&style=for-the-badge&url=https%3A%2F%2Fjonathon-dev.vercel.app)](https://jonathon-dev.vercel.app/)
 
 - 🔭 I just started learning Network Architecture, SSH Remote Control, and Bash.
 - 🌱 Currently diving into Prisma.
@@ -67,5 +69,3 @@
 [linkedin]: https://www.linkedin.com/in/jonathon-scott-0a9617b0/
 
 ---
-
-This version is more polished and professional, enhancing readability and presentation.

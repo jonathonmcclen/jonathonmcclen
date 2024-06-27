@@ -38,6 +38,9 @@
 ![AWS](https://img.shields.io/badge/-AWS-333?style=for-the-badge&logo=amazonaws)
 ![Firebase](https://img.shields.io/badge/-Firebase-333?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/-Supabase-333?style=for-the-badge&logo=supabase)
+![Bash](https://img.shields.io/badge/-Bash-333?style=for-the-badge&logo=gnu-bash)
+![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)
+![Chell](https://img.shields.io/badge/-Chell-333?style=for-the-badge&logo=chell)
 
 ---
 

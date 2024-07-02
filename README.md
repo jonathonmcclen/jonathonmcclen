@@ -40,7 +40,7 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-333?style=for-the-badge&logo=supabase)
 ![Bash](https://img.shields.io/badge/-Bash-333?style=for-the-badge&logo=gnu-bash)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)
-![Shell](https://img.shields.io/badge/-Chell-333?style=for-the-badge&logo=chell)
+![Shell](https://img.shields.io/badge/-shell-333?style=for-the-badge&logo=shell)
 
 ---
 

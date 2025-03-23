@@ -46,17 +46,16 @@
 
 ### Projects and Creations:
 
-#### Websites
+- [JOT.CARDS](https://www.jot.cards) - (2025) Digital business card and link in bio service revolutionizing custom branded mobile only landing pages for networking. 
 
-- [Advanced Web Technology](https://www.AdvancedWebTechnology.com)
-- [esc Room Games](https://www.escRoomGames.com)
-- [Summit Dental](https://www.SummitDentalss.com)
+- [NEXT_DRIVE](https://www.jot.cards) - (2025) Lightweight home cloud storage  and media server (Local Files and/or S3) using NEXT.js Framework.
 
-#### Applications & Games
+- [Anti-Social Suite](https://www.jot.cards) - (2022) (No longer supported) Selinium Web Driver and Ruby based CLI to automate Chrome Driver in efforts to automate social mediamangement.
 
-- [Daffodil362 - Digital Cyber Punk Escape Room](https://www.escRoomGames.com/games/daffodil362)
-- ["I Want My Money Back" - Satire Digital Escape Room](https://escroomgames.com/Games/I-Want-My-Money-Back)
-- [Key Finder - Music Theory Made Easy](https://copperheadsound.com/Tools/Key-Finder)
+- [escRoomGames.com](https://www.jot.cards) - (2020)(No Longer Live) **Immersive Digital Escape Room Experience**
+Originally built in Vanilla JavaScript and later rebuilt in React.js, this digital escape room hosted over 80 participants and pushed the boundaries of interactive gameplay. The experience blended real-world interactions with digital puzzles, including activities like making actual phone calls, following clues through Google Maps, and using a simulated terminal to "hack" into (fake) Twitter accounts. One standout scenario had players attempt to secure a refund for a recent online purchase, navigating an intentionally frustrating maze of customer service chats, misleading ads, and CAPTCHA-style challenges—an homage to the absurdity of modern tech bureaucracy, inspired by Portal. The result was a highly engaging, multi-layered adventure that merged storytelling, technology, and real-life actions in unexpected ways
+
+- [Key Finder - Music Theory Made Easy](https://copperheadsound.com/Tools/Key-Finder) - HTML, JS, CSS application that can give you any maj or minor key selected based off of music theory math not hard coded keys so that more keys coudld be added later.
 
 ---
 

@@ -6,11 +6,11 @@
 
 [![Website](https://img.shields.io/website?label=JonathonMcclendon.dev&style=for-the-badge&url=https%3A%2F%2Fjonathon-dev.vercel.app)](https://jonathon-dev.vercel.app/)
 
-- 🔭 I just started learning Network Architecture, SSH Remote Control, and Bash.
-- 🌱 Currently diving into Prisma.
-- 👯 Seeking full-time employment designing and developing software with JavaScript frameworks.
-- 🥅 2024 Goals: Launch a successful SaaS product.
-- ⚡ Fun fact: I'm a top 1% recording artist on Spotify.
+- 🔭 Learning business and sales as i pivit my Saas into market driven developement
+- 🌱 facroting out featurne into open source next library 
+- 👯 Enjoying life and going on adventures in CO
+- 🥅 2025 Goals: Become Cahsflow Positive for Jot.space and release NovaForms a react/NEXT controlled form library
+- ⚡ Fun fact: I'm working as a lifty (Ski Lift operator) this winter season at Winter Park Resort
 
 ### Connect with me:
 

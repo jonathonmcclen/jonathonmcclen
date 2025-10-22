@@ -2,7 +2,7 @@
 
 ---
 
-### Hi there, I'm Jonathon McClendon 👋
+### Hi there, I'm Jonathon Scott 👋
 
 [![Website](https://img.shields.io/website?label=JonathonMcclendon.dev&style=for-the-badge&url=https%3A%2F%2Fjot.space%2Fjonathon-dev)]([https://jot.space/jonathon-dev](https://jot.space/jonathon-dev))
 

@@ -4,7 +4,8 @@
 
 ### Hi there, I'm Jonathon Scott 👋
 
-[![Website](https://img.shields.io/website?label=JonathonMcclendon.dev&style=for-the-badge&url=https%3A%2F%2Fjot.space%2Fjonathon-dev)]([https://jot.space/jonathon-dev](https://jot.space/jonathon-dev))
+[![Website](https://img.shields.io/website?label=JonathonMcclendon.dev&style=for-the-badge&url=https%3A%2F%2Fjot.space%2Fjonathon-dev)](https://jot.space/jonathon-dev)
+
 
 - 🔭 Learning business and sales as i pivit my Saas into market driven developement
 - 🌱 refactoring internal Saas feature into open source next library (NovaForms)
